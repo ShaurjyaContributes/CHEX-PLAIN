@@ -1,0 +1,11 @@
+,pathology,precision,recall/sensitivity,specificity
+0,Airspace Opacity,1.0,0.9999999841392611,1.0
+1,Atelectasis,1.0,0.9999999727308837,1.0
+2,Cardiomegaly,0.9999999839613855,1.0,0.9999999991379634
+3,Consolidation,1.0,1.0,1.0
+4,Edema,1.0,0.9999999789431468,1.0
+5,Enlarged Cardiomediastinum,0.9999999919276483,1.0,0.999999999089679
+6,Lung Lesion,1.0,1.0,1.0
+7,Pleural Effusion,1.0,0.9999985659103995,1.0
+8,Pneumothorax,1.0,0.9999988381934606,1.0
+9,Support Devices,1.0,0.9999999807757634,1.0
