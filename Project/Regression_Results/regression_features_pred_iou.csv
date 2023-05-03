@@ -1,0 +1,5 @@
+task,feature,Linear regression coefficients
+Overall,n_instance,"0.041, (-0.064, 0.146)"
+Overall,area_ratio,"0.541, (0.486, 0.596)***"
+Overall,elongation,"-0.358, (-0.448, -0.269)***"
+Overall,irrectangularity,"-0.285, (-0.348, -0.223)***"

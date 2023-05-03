@@ -1,0 +1,11 @@
+name,lower,mean,upper
+Airspace Opacity,0.505,0.559,0.614
+Atelectasis,0.816,0.87,0.918
+Cardiomegaly,0.944,0.972,0.994
+Consolidation,0.333,0.51,0.675
+Edema,0.68,0.769,0.863
+Enlarged Cardiomediastinum,0.933,0.957,0.978
+Lung Lesion,0.6,0.85,1.0
+Pleural Effusion,0.637,0.718,0.798
+Pneumothorax,1.0,1.0,1.0
+Support Devices,0.905,0.933,0.96
